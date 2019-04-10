@@ -1,32 +1,32 @@
 {
-    "title": "Resume",
-    "name": "startbootstrap-resume",
-    "version": "5.0.5",
+    "title": "Portfolio",
+    "name": "michaeltran-portfolio",
+    "version": "1.0.0",
     "scripts": {
         "start": "gulp watch"
     },
-    "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
+    "description": "",
     "keywords": [
         "css",
         "sass",
         "html",
         "responsive",
-        "theme",
-        "template"
+        "portfolio",
+        "resume",
+        "michael",
+        "tran",
+        "michael tran"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/resume",
+    "homepage": "https://michaeltran.github.io/",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/michaeltran/michaeltran.github.io/issues"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+    "author": "Michael Tran",
+    "contributors": [],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume.git"
+        "url": "https://github.com/michaeltran/michaeltran.github.io"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.8.1",

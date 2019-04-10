@@ -3,5 +3,8 @@
 My personal Github portfolio page.
 
 ## Installation
-* Run `npm install`
-* Run `gulp`
+
+Run the following commands to build the project.
+
+* `npm install`
+* `gulp`
